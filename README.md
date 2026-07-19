@@ -10,7 +10,8 @@ This project is an end-to-end data science pipeline built to automate manufactur
 *   **Insights:** An interactive **Power BI** dashboard providing real-time quality monitoring and supplier performance analytics.
 
 ## Dashboard Preview
-![Dashboard Screenshot](your-image-filename.png)
+ <img width="1292" height="722" alt="Screenshot 2026-07-19 191956" src="https://github.com/user-attachments/assets/49f69857-967a-4cd7-b658-e866f6ebd683" />
+
 
 ## Tech Stack
 *   **Language:** Python 3
